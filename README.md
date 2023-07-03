@@ -1,10 +1,10 @@
 # so_long-42
 so_long project for 42
 
-Launch:
+Usage :
 
-make && so_long
+make && ./so_long
 
-Launch with bonuses :
+Usage with bonuses :
 
-make bonus && so_long
+make bonus && ./so_long
