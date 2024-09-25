@@ -5,12 +5,12 @@ Usage :
 
 ```
 make
-./so_long
+./so_long map.ber
 ```
 
 Usage with bonuses :
 
 ```
 make bonus
-./so_long
+./so_long bonus.ber
 ```
